@@ -1,0 +1,14 @@
+
+# node
+node_modules/
+pnpm-lock.yaml
+dist/
+build/
+# rust
+target/
+Cargo.lock
+# editor
+.DS_Store
+.vscode/
+# output
+.codesync/
